@@ -101,8 +101,6 @@ else
 puts "How did you get this far? Get back to work! Good bye."
 end
 	
-#def function
-#while(true)
 
 
   
